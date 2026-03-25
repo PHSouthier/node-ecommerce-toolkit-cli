@@ -1,5 +1,5 @@
 {
-  "name": "qr-code-generator-cli",
+  "name": "node-ecommerce-toolkit-cli",
   "version": "1.0.0",
   "description": "kit de utilidades para e-commerces",
   "main": "index.js",
